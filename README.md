@@ -77,9 +77,9 @@ Note: Replace screenshots with your actual project images.
 
 ### 🔗 Useful Links
 
-Frontend Repo https://stock-trading-platform-puce.vercel.app/
+[Frontend Repo](https://stock-trading-platform-puce.vercel.app/) 
 
-Backend Repo https://stock-trading-platform-t8hd.onrender.com
+[Backend Repo](https://stock-trading-platform-t8hd.onrender.com)
 
 
 ###🏷 Tags / Keywords
