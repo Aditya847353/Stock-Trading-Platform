@@ -29,4 +29,29 @@ A modern, full-stack **Stock Trading Platform** built with the MERN stack, enabl
 - Access analytics dashboards
 
 ## 📁 Project Structure
+stock-trading-platform/
+├── client/ # React frontend
+│ ├── src/
+│ ├── public/
+│ └── package.json
+├── server/ # Node.js backend
+│ ├── controllers/
+│ ├── models/
+│ ├── routes/
+│ └── server.js
+├── README.md
+└── package.json
+
+
+## 🔑 Authentication
+- Secure JWT-based authentication
+- Role-based access: User and Admin
+- Password encryption with bcrypt
+
+## 💻 Installation
+
+### Clone the repository
+```bash
+git clone https://github.com/yourusername/stock-trading-platform.git
+cd stock-trading-platform
 
