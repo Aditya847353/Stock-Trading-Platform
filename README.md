@@ -66,15 +66,6 @@ npm install
 npm run dev
 
 
-The app should now run on http://localhost:5173.
-
-📸 Screenshots
-
-
-
-
-Note: Replace screenshots with your actual project images.
-
 ### 🔗 Useful Links
 
 [Frontend Repo](https://stock-trading-platform-puce.vercel.app/) 
