@@ -28,6 +28,25 @@ A modern, full-stack **Stock Trading Platform** built with the MERN stack, enabl
 - Update stock listings and prices
 - Access analytics dashboards
 
+## 📂 Folder Structure
+
+```
+stock-trading-platform/
+├── client/ # React frontend
+│ ├── src/
+│ ├── public/
+│ └── package.json
+├── server/ # Node.js backend
+│ ├── controllers/
+│ ├── models/
+│ ├── routes/
+│ └── server.js
+├── README.md
+└── package.json
+
+```
+
+
 ## 📁 Project Structure
 stock-trading-platform/
 ├── client/ # React frontend
