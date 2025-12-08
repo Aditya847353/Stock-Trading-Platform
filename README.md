@@ -78,4 +78,4 @@ npm run dev
 
 ###🏷 Tags / Keywords
 
-React Node.js Express.js MongoDB MERN Stock Trading Portfolio Management Watchlist Finance App Real-time Data
+
