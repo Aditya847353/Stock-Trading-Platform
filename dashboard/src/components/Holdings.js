@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import axios from "axios";
+import api from "../services/api";
 // import axios, { all } from "axios";
 import { VerticalGraph } from "./VerticalGraph";
 
@@ -9,10 +9,15 @@ const Holdings = () => {
   const [allHoldings, setAllHoldings] = useState([]);
 
   useEffect(() => {
-    axios.get("http://localhost:3002/allHoldings").then((res) => {
-      // console.log(res.data);
-      setAllHoldings(res.data);
-    });
+    api
+      .get("/allHoldings")
+      .then((res) => {
+        // console.log(res.data);
+        setAllHoldings(res.data);
+      })
+      .catch((error) => {
+        console.error("Failed to fetch holdings.", error);
+      });
   }, []);
 
   // const labels = ['January', 'February', 'March', 'April', 'May', 'June', 'July'];
