@@ -8,8 +8,6 @@ A modern, full-stack **Stock Trading Platform** built with the MERN stack, enabl
 ## 🛠 Technologies Used
 - **Frontend:** React.js, Tailwind CSS, Redux Toolkit, RTK Query, Framer Motion
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT Authentication
-- **APIs:** Real-time stock data and market feeds
-- **Hosting:** Vercel (frontend), MongoDB Atlas (database)
 
 ## ⚡ Features
 
