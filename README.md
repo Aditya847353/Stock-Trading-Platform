@@ -6,7 +6,7 @@ A modern, full-stack **Stock Trading Platform** built with the MERN stack, enabl
 [Visit Website](https://stock-trading-platform-puce.vercel.app)
 
 ## 🛠 Technologies Used
-- **Frontend:** React.js, Tailwind CSS, Redux Toolkit, RTK Query, Framer Motion
+- **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT Authentication
 
 ## ⚡ Features
