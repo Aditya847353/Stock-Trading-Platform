@@ -2,9 +2,6 @@
 
 A modern, full-stack **Stock Trading Platform** built with the MERN stack, enabling users to trade stocks, manage portfolios, monitor holdings, and stay updated with live market data. The platform offers secure authentication, real-time order management, and a seamless trading experience.
 
-## 🌐 Live Demo
-[Visit Website](https://stock-trading-platform-puce.vercel.app)
-
 ## 🛠 Technologies Used
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT Authentication
